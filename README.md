@@ -29,4 +29,24 @@ Além da organização do conhecimento, o projeto documenta o processo de pesqui
 * https://thielmann.adv.br/2025/05/02/responsabilidade-dos-cotistas-em-fiis-a-nova-interpretacao-da-cvm-no-oficio-circular-cvm-sse-2-2025/
 * [Comissão de valores imobiliarios.pdf](https://github.com/user-attachments/files/32352009/Comissao.de.valores.imobiliarios.pdf)
 
+## Engenharia de prompts e cicatrizes
+
+Este documento apresenta o processo de criação, teste e aprimoramento dos prompts utilizados no estudo sobre Fundos Imobiliários com o NotebookLM.
+
+Ao longo do projeto, analisei as respostas geradas pela IA, identifiquei limitações e reformulei as perguntas para obter resultados mais claros, relevantes e fundamentados nas fontes selecionadas.
+
+As “cicatrizes” representam justamente esse processo de tentativa, análise, ajuste e aprendizado, registrando não apenas os resultados, mas também o raciocínio por trás da construção dos prompts.
+[Engenharia de Prompts e “Cicatrizes”.pdf](https://github.com/user-attachments/files/32392591/Engenharia.de.Prompts.e.Cicatrizes.pdf)
+
+
+## Mini Guia de Estudos 
+
+Este miniguia reúne os principais conhecimentos adquiridos durante o estudo sobre Fundos de Investimento Imobiliário (FIIs), utilizando o NotebookLM e a Inteligência Artificial como ferramentas de apoio à aprendizagem.
+
+O conteúdo foi organizado de forma prática, apresentando conceitos fundamentais, principais indicadores, tipos de FIIs, riscos, tributação e pontos de atenção na análise de um fundo.
+
+A proposta é transformar as informações pesquisadas em um material de consulta simples e estruturado, que possa ser utilizado tanto para revisar os conhecimentos adquiridos quanto para orientar estudos futuros sobre o tema
+
+[mini_guia_de_estudos-v2.pdf](https://github.com/user-attachments/files/32392731/mini_guia_de_estudos-v2.pdf)
+
 
