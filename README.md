@@ -36,6 +36,7 @@ Este documento apresenta o processo de criação, teste e aprimoramento dos prom
 Ao longo do projeto, analisei as respostas geradas pela IA, identifiquei limitações e reformulei as perguntas para obter resultados mais claros, relevantes e fundamentados nas fontes selecionadas.
 
 As “cicatrizes” representam justamente esse processo de tentativa, análise, ajuste e aprendizado, registrando não apenas os resultados, mas também o raciocínio por trás da construção dos prompts.
+
 [Engenharia de Prompts e “Cicatrizes”.pdf](https://github.com/user-attachments/files/32392591/Engenharia.de.Prompts.e.Cicatrizes.pdf)
 
 
